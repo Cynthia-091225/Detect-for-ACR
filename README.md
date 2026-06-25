@@ -1,4 +1,4 @@
-# Test-for-ACR
+# Detect-for-ACR
 
 Algorithm using flux cone transformation: 
 https://github.com/Cynthia-091225/Test-for-ACR/blob/main/Algorithm\_1.mw
