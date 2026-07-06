@@ -1,5 +1,9 @@
 # Obstruction of Absolute Concentration Robustness by Conservation Laws in Non-Redundant Zero-One Networks
 
+This repository contains the code and data accompanying the paper:
+"Obstruction of Absolute Concentration Robustness by Conservation Laws in Non-Redundant Zero-One Networks"
+by Xinyi Si and Xiaoxian Tang.
+
 1. SOFTWARE REQUIREMENTS
 ------------------------
 - Software: Maplesoft Maple
@@ -39,4 +43,9 @@ Instructions:
     Instructions:
     -Note: When rerunning  the code, please unassign the definited values for each stoichiometric matrix.
     - Execute the worksheet to view the solved steady state concentrations.
+
+3. COMPUTATIONAL NOTES
+----------------------
+- Some symbolic computation steps (e.g., computing resultants for high-dimensional networks) may take about 1 minutes depending on your CPU.
+- If you encounter memory issues, please increase the kernel memory limit in Maple preferences.
 
